@@ -1,12 +1,12 @@
 {
     "product":  "态度插件",
-    "version":  "0.16.34",
+    "version":  "0.16.35",
     "min_ver":  "0.16.0",
     "force":  false,
-    "notes":  "新增授权页；修复卡密粘贴与确定按钮",
+    "notes":  "加固：引擎脚本混淆（PyArmor）+ 授权三处交叉校验",
     "fileCount":  10,
-    "totalSize":  2543502,
-    "sig":  "CRKWIsIzcD/COa0yTigLCWBE444AzHIDLVJyxWKK/968K5bCeOUlbm/nrJmQG/wgvms5F33MDBFbzkstb1o5iX883X+9rz0yqZuqEnlE7RxIw0yPQy5ptQQ/OCU2lZcQ5ZvBzdH2gsNpxId8U+ssFU3WbR4ltcbyfsx8t9iBtuRK2+chjNsYvoIpRRSLmVJnbXc6uWrYnHZlLoNLvpEeoPI4Ni7oUZ+ch7O7wPmFaR7zvUvcBAnzUDFCp+nA8ooVezT52obnRyVF3ICBzjfXIgXoX+c8vHyXx3veGhvxZ6TdJdyRf1Z+Pc+wYBpBshf/abrcfNuhnzQBE/sdxlGgfw==",
+    "totalSize":  2546574,
+    "sig":  "HjUJCR16TiAXOBdtBSBZTR8uy+SBZFGTC0WVK3UNy0HwiIhW2UFTx0nUhnq9DxYPjRJEnZm27Pbzdjx0GQuRKS8gPqlv2jppTxi5krYxmKSRiGwCU4nK/Rktm1+Q9DA9wwtIv6Yp6aaf2i1zeX8dfAW5+67z2BrCu8QL6CYKLqv4vYGrHqkkvZWq9VUEwIFnsGReWIEMHIXHmMXez4Egz+5K8CoJ5qTmABdyqWMi9aMQ1G26ErTPooJ1As1hvjzI/has8qEox670d12PkH9AixWxW+byCXqNsKVfg0e0b+8x/1waG0XBHOht56K/S6oyqEgG4wYCoWdUv31ws0pJdA==",
     "files":  [
                   {
                       "path":  "AppUI.xslt",
@@ -16,8 +16,8 @@
                   },
                   {
                       "path":  "AttitudeAddOn.dll",
-                      "sha256":  "01f3281b47ea60e58230de62e2843c55cc94c08925a089440a3094ec0a902a55",
-                      "size":  1677824,
+                      "sha256":  "73b019e25340799d64a84e14232c741fb1a2b174c938d4d6bccc95bddf3afe77",
+                      "size":  1680896,
                       "url":  "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/AttitudeAddOn.dll"
                   },
                   {
@@ -58,7 +58,7 @@
                   },
                   {
                       "path":  "version.txt",
-                      "sha256":  "fa28781949c4a0a33e61a969df8a56f0b597228253dd78758d2b28100bba69fc",
+                      "sha256":  "942a3aa5cc37504984b6b774fa09edce98026955fea01920d7a1b16cb2c3f94b",
                       "size":  8,
                       "url":  "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/version.txt"
                   },
