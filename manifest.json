@@ -1,12 +1,12 @@
 {
     "product":  "态度插件",
-    "version":  "0.16.35",
+    "version":  "0.16.36",
     "min_ver":  "0.16.0",
     "force":  false,
-    "notes":  "加固：引擎脚本混淆（PyArmor）+ 授权三处交叉校验",
+    "notes":  "0.16.36：引擎改成 Cython 编译 (.pyd)，授权配置加签防篡改，13 个功能入口全部接入交叉校验",
     "fileCount":  10,
-    "totalSize":  2547086,
-    "sig":  "TLvlIsAtV1jGICoADjGS6KGrVZmQMi3PgUqSIkTtXX0Wiqt82Bmopsw2wo2VSl7B9Sf6xZXx9TD7KUtT6boRTXROVUlxjfgpGjLrLqgIMm3FksrBtxqScJXsrvoc4NRN42+Pay7mXe0v9KaqhWcAd8TsmQ6ppkXyvV2Hjxi1LVzCCWnlTKfzAB8BQXeK77aEin029W+c8T4SBK4jj4G8SeEUV/Cy/2K+he2+7fLw7RgKopv4+4cy03EdJYlgF5/oJ49/O46PqymeluCihgcTcfLkxhG/MhAGr8DsYT6RMZMARaBLZW0jNQXyBgGt0ZMi6bdjW1IYRGnGM8VzUMuE8g==",
+    "totalSize":  2548622,
+    "sig":  "RuURVKPCI/ZfE+HgPc5mKaDkghBdnmT0ttWM8EPAnukDg3PFKelFO6+/m6QGbv/LmbTo06ij+/lbhLqrJnZqp1FKNYnVmQIZx6Qv67nv3y7KkhqMhS94kYtLDLbsK/g2OFXvzWNDcMuUa0Yd1sJLFuqhR0e4WNOL4vZI61fEQmv9azrpttJ7EE6dAounMYCN34qHns7PMCXKFnM9RXJTWfI4BInVVJkTq50MlDTRSaSXBMY48/ktO+DlGQjb3Omx2PKmZAYxvo17uSjAxmQ8o+FRKQzSf21229LA9R0/HHKKY1nnIkSkGdDY9mnQuNdjhK4AEXkD1+Fe6ildlAZ/wQ==",
     "files":  [
                   {
                       "path":  "AppUI.xslt",
@@ -16,8 +16,8 @@
                   },
                   {
                       "path":  "AttitudeAddOn.dll",
-                      "sha256":  "be60f6132d8faa1545527128ca147994af81e57281e4fbf961fa006c8f8a7242",
-                      "size":  1681408,
+                      "sha256":  "e315fca4b0cbe02458c71af19df474ba10ff2d7e163e29bc2df13ad4b5e6faec",
+                      "size":  1682944,
                       "url":  "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/AttitudeAddOn.dll"
                   },
                   {
@@ -58,7 +58,7 @@
                   },
                   {
                       "path":  "version.txt",
-                      "sha256":  "942a3aa5cc37504984b6b774fa09edce98026955fea01920d7a1b16cb2c3f94b",
+                      "sha256":  "c428ba1fa4b512a8e96b4f8605c9cf869b8a41ad4894e69abdfd09c69caa90c3",
                       "size":  8,
                       "url":  "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/version.txt"
                   },
