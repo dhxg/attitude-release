@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Addon>
+  <Name>AttitudeAddOn</Name>
+  <Description>态度插件</Description>
+  <Version>0.4.6.0</Version>
+  <Author>dhxg</Author>
+  <Assembly>AttitudeAddOn.dll</Assembly>
+  <EntryPoint>AttitudeAddOn.AttitudeDockUICodeOnly</EntryPoint>
+  <MinCorelVersion>20.0</MinCorelVersion>
+  <MaxCorelVersion>28.0</MaxCorelVersion>
+  <Dependencies>
+    <Dependency>PresentationCore</Dependency>
+    <Dependency>PresentationFramework</Dependency>
+    <Dependency>WindowsBase</Dependency>
+  </Dependencies>
+  <UI>
+    <AppUI>AppUI.xslt</AppUI>
+    <UserUI>UserUI.xslt</UserUI>
+  </UI>
+</Addon>

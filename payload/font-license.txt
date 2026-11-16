@@ -1,0 +1,68 @@
+# 态度·字体管理 —— 授权名单（内置）
+# 格式：状态|关键词(分号分隔)|依据说明
+# 状态：free=官方声明可免费商用 / paid=商业使用需授权
+# 匹配顺序：按本文件自上而下，先命中先生效。所以「精确定位」的条目必须写在「厂商通配」之前。
+# 维护原则：只有拿到官方明确声明（SIL OFL、字库官网授权页、作者公开声明）才写 free；
+#          拿不准的一律不写，让程序判成「未核实」，宁缺勿错。
+
+# ---------- 开源 / 官方声明免费商用 ----------
+free|思源黑体;思源宋体;思源柔黑;SourceHanSans;SourceHanSerif;NotoSansCJK;NotoSerifCJK;NotoSansSC;NotoSerifSC;NotoSansTC;思源等宽|SIL OFL 1.1：Adobe 与 Google 联合发布，可免费商用
+free|得意黑;SmileySans|SIL OFL 1.1：作者公开声明可免费商用
+free|霞鹜文楷;LXGWWenKai|SIL OFL 1.1，可免费商用
+free|霞鹜新晰黑;LXGWNewClear|SIL OFL 1.1，可免费商用
+free|未来荧黑;GlowSans|SIL OFL 1.1，可免费商用
+free|更纱黑体;SarasaGothic;SarasaMono|SIL OFL 1.1，可免费商用
+free|文泉驿;WenQuanYi|GPL 字体例外条款，可免费商用
+free|寒蝉;Chill|寒蝉系列官方声明：SIL OFL，可免费商用
+free|阿里巴巴普惠体;AlibabaPuHuiTi|阿里官方声明「永久免费正版商用」
+free|阿里妈妈数黑体;AlimamaShuHeiTi|阿里妈妈官方声明免费商用
+free|阿里妈妈东方大楷;AlimamaDongFangDaKai|阿里妈妈官方声明免费商用
+free|阿里妈妈刀隶体;AlimamaDaoLiTi|阿里妈妈官方声明免费商用
+free|抖音美好体;DouyinSans;抖音Sans|字节跳动官方声明免费商用
+free|MiSans;XiaomiMiSans|小米官方声明免费商用（含商业使用）
+free|OPPOSans|OPPO 官方声明免费商用
+free|HarmonyOSSans;鸿蒙字体|华为官方声明免费商用
+free|站酷高端黑;ZCOOLGaoDuanHei|站酷官方：免费授权全社会使用（含商用）
+free|站酷酷黑;ZCOOLKuHei|站酷官方：免费授权全社会使用（含商用）
+free|站酷快乐体;ZCOOLKuaiLe|站酷官方：免费授权全社会使用（含商用）
+free|站酷庆科黄油体;ZCOOLQingKeHuangYou|站酷官方：免费授权全社会使用（含商用）
+free|站酷文艺体;ZCOOLWenYi|站酷官方：免费授权全社会使用（含商用）
+free|站酷小薇;ZCOOLXiaoWei|站酷官方：免费授权全社会使用（含商用）
+free|优设标题黑;YouSheBiaoTiHei|优设官方声明免费商用
+free|优设好身材;YouSheHaoShenCai|优设官方声明免费商用
+free|钉钉进步体;DingTalkJinBuTi|钉钉官方声明免费商用
+free|庞门正道标题体;PangMenZhengDao|作者公开声明免费商用
+free|江城圆体;JiangChengYuanTi|作者公开声明免费商用
+free|江城斜宋体;JiangChengXieSong|作者公开声明免费商用
+free|素材集市康康体;KangKangTi|素材集市声明免费商用
+free|联盟起艺卢帅正锐黑体|联盟起艺声明免费商用
+free|江西拙楷;JiangXiZhuoKai|作者公开声明免费商用
+free|荆南缘默体;JingNanYuanMo|作者公开声明免费商用
+free|汇文明朝体;HuiwenMincho|作者公开声明免费商用
+free|京华老宋体;JingHuaLaoSong|作者公开声明免费商用
+free|演示悠然小楷;演示春风楷;演示秋鸿楷|演示字体官方声明免费商用
+free|沐瑶随心手写体|作者公开声明免费商用
+
+# ---------- 方正的四款基础字体（官方声明可免费商用，要写在厂商通配之前） ----------
+free|方正黑体;FZHei;方正书宋;FZShuSong;方正仿宋;FZFangSong;方正楷体;FZKai|方正官方声明：四款基础字体可免费商用
+
+# ---------- 系统随附（版权在人不在微软，商用要确认） ----------
+paid|微软雅黑;MicrosoftYaHei;MSYH|版权属方正电子，微软仅获使用权；商业发布需向方正购买授权
+paid|宋体;SimSun;黑体;SimHei;楷体;KaiTi;仿宋;FangSong;等线;DengXian;幼圆;YouYuan;中易;ZHONGYI|Windows 系统随附字体，版权归字库厂商；商业发布需确认授权
+
+# ---------- 商业字库（厂商通配） ----------
+paid|方正;Founder;FZ;兰亭;悠宋|方正字库：商业发布需购买授权
+paid|汉仪;Hanyi|汉仪字库：商业使用需授权
+paid|造字工房;MakeFont|造字工房：商业使用需授权
+paid|字魂;Zihun|字魂字库：商业使用需授权
+paid|锐字;REEJI|锐字潮牌字库：商业使用需授权
+paid|华文;STKaiti;STSong;STHeiti;STFangsong|华文系字体：商业使用需授权
+paid|文鼎;Arphic|文鼎字库：商业使用需授权
+paid|蒙纳;Monotype|蒙纳字库：商业使用需授权
+paid|森泽;Morisawa|森泽字库：商业使用需授权
+paid|叶根友|叶根友系列：个人可免费使用，商业需授权
+paid|腾祥;Tensentype|腾祥字库：商业使用需授权
+paid|义启;YiQi|义启字库：商业使用需授权
+paid|张海山|张海山系列：个人免费，商业需授权
+paid|三极;SanJi|三极字库：商业使用需授权
+paid|汉仪旗黑|汉仪字库：商业使用需授权
