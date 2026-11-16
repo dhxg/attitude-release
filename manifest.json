@@ -6,7 +6,7 @@
     "notes":  "首个发版通道：工具栏按勾选裁剪、工作区缓存自动补丁",
     "fileCount":  10,
     "totalSize":  2297230,
-    "sig":  "PfQKxpNtAavUgPMam6fqrFuLjNohtk3+DKZAERTLLF65n6u2Y9DBPtLb+Yxv71luv0UOxRingqH486qCHXj/N4Msn2TD0c307/NDKj5W7rOrLU82c7KqSr7eVqMOs0amz6iZRQIRp41EL9w7jpzhPOMBSSKj/VV/oVvI0n6j5Rh2P4azwfnwYa5wum06xdOzfqzjmBozoqDrkHsKSkHLP/KyHtavp3BSJrlfmF28PLbb3QuBd9wF9EZwBPHhpbN/aKv2YF7G9bcfybGwDqIT4kSSo+GXeSBUrtZcCyROLFanea+eT5Tu5Hsr0xobGgu0zhOzmYK70ImwrzOYjf3wlQ==",
+    "sig":  "BxKlWYq+33z4ZLL3ycvCVB5RW3fwvc/Qt7jy0h1alRGtHhecXAcdjAorwavZhBxxTOIkO8y9D6Lsw/qKhCbNdwqi0M0lsvXRC4p/zUXdhCNkpL2Lf7+Kc8IMumd8rgjkIyXgeIyw/CRmIiQMUredLKvr09fIsmZYILW/DjvfgNUnWrZ2IX15mrldpaLucXXXgorJZ7ovASUbuWch1XApcvd3k4DYejCaAlQyT9S8Gw6s9UlXWm5yZ1eqvHkYDtew2jF8rawltUDcAFZRXO7K97OvPv/rKF474x6083u0s+v/KQVLRhNJ1v410FnTqBuAk+132dNcDtRJkrGnZpUEkQ==",
     "files":  [
                   {
                       "path":  "AppUI.xslt",
@@ -21,16 +21,22 @@
                       "url":  "https://fastly.jsdelivr.net/gh/dhxg/attitude-release@v0.16.32/payload/AttitudeAddOn.dll"
                   },
                   {
-                      "path":  "attitude-logo.png",
-                      "sha256":  "72bf175480a160740f32e97b988dd600a3947bd3d266b8810d2f49b33446c6f4",
-                      "size":  443981,
-                      "url":  "https://fastly.jsdelivr.net/gh/dhxg/attitude-release@v0.16.32/payload/attitude-logo.png"
-                  },
-                  {
                       "path":  "CorelDrw.addon",
                       "sha256":  "9b2e8ca0c74339894cac310699fc1a3778be9cfb457ccc5fab99abb33f19d91c",
                       "size":  620,
                       "url":  "https://fastly.jsdelivr.net/gh/dhxg/attitude-release@v0.16.32/payload/CorelDrw.addon"
+                  },
+                  {
+                      "path":  "UserUI.xslt",
+                      "sha256":  "aa77bf36a11147b941cdc420cfa1c2edc282a8f294db89f596d099699871079a",
+                      "size":  465,
+                      "url":  "https://fastly.jsdelivr.net/gh/dhxg/attitude-release@v0.16.32/payload/UserUI.xslt"
+                  },
+                  {
+                      "path":  "attitude-logo.png",
+                      "sha256":  "72bf175480a160740f32e97b988dd600a3947bd3d266b8810d2f49b33446c6f4",
+                      "size":  443981,
+                      "url":  "https://fastly.jsdelivr.net/gh/dhxg/attitude-release@v0.16.32/payload/attitude-logo.png"
                   },
                   {
                       "path":  "font-license.txt",
@@ -49,12 +55,6 @@
                       "sha256":  "a1c84d9bdb9ab29043c58896224d32941783eb821629618416dcb08f12886492",
                       "size":  26250,
                       "url":  "https://fastly.jsdelivr.net/gh/dhxg/attitude-release@v0.16.32/payload/ppocr_keys.txt"
-                  },
-                  {
-                      "path":  "UserUI.xslt",
-                      "sha256":  "aa77bf36a11147b941cdc420cfa1c2edc282a8f294db89f596d099699871079a",
-                      "size":  465,
-                      "url":  "https://fastly.jsdelivr.net/gh/dhxg/attitude-release@v0.16.32/payload/UserUI.xslt"
                   },
                   {
                       "path":  "version.txt",
