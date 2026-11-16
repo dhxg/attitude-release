@@ -1,72 +1,72 @@
 {
     "product":  "态度插件",
-    "version":  "0.16.32",
+    "version":  "0.16.33",
     "min_ver":  "0.16.0",
     "force":  false,
-    "notes":  "首个发版通道：工具栏按勾选裁剪、工作区缓存自动补丁",
+    "notes":  "代码混淆加固：类名打乱、字符串加密（不影响功能）",
     "fileCount":  10,
-    "totalSize":  2297230,
-    "sig":  "BxKlWYq+33z4ZLL3ycvCVB5RW3fwvc/Qt7jy0h1alRGtHhecXAcdjAorwavZhBxxTOIkO8y9D6Lsw/qKhCbNdwqi0M0lsvXRC4p/zUXdhCNkpL2Lf7+Kc8IMumd8rgjkIyXgeIyw/CRmIiQMUredLKvr09fIsmZYILW/DjvfgNUnWrZ2IX15mrldpaLucXXXgorJZ7ovASUbuWch1XApcvd3k4DYejCaAlQyT9S8Gw6s9UlXWm5yZ1eqvHkYDtew2jF8rawltUDcAFZRXO7K97OvPv/rKF474x6083u0s+v/KQVLRhNJ1v410FnTqBuAk+132dNcDtRJkrGnZpUEkQ==",
+    "totalSize":  2523022,
+    "sig":  "bvDZW5EXswYU28+tOxUQMkV6wQ1F5BQts7K/srZ6D4dAR3vTlAZ53lk+DR400WQGtDRnSKc8diJz+/Pk3bOwxV4BfJAfi5CbmnJrpI5SuDJoAL6/YEyasQ7pc6SCRGJkfuCFs+xll9nq2YK5rLst72MpQFAAtI3wyPK/ZguS6B0opLmfu+snBEVg3jFYN5mRFv0+DPydXIveddhVwI1KX5638ryL6j552f5fJ+s10Vo2mAD1qQ9biS8/r04FGr4fkZj2Jg/Qur4edf4mEmTGljskZEyqbZRifaf6himlZt/S+HN7yPsyVNi/wuJUfjjBPZjfAEFJA3K3Tx1EPTGh7w==",
     "files":  [
                   {
                       "path":  "AppUI.xslt",
                       "sha256":  "fdd5dd54fd7f51183c5635c00f2fbe1f62456c53216956320f1a975793e21bc7",
                       "size":  4012,
-                      "url":  "https://fastly.jsdelivr.net/gh/dhxg/attitude-release@v0.16.32/payload/AppUI.xslt"
+                      "url":  "https://ghfast.top/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/AppUI.xslt"
                   },
                   {
                       "path":  "AttitudeAddOn.dll",
-                      "sha256":  "35522d9996eea1d223a27ab29ad4f508a650bea004fec990418185677330c96b",
-                      "size":  1431552,
-                      "url":  "https://fastly.jsdelivr.net/gh/dhxg/attitude-release@v0.16.32/payload/AttitudeAddOn.dll"
+                      "sha256":  "5a677da0cca85627083cb24511be9bde96abff83247adcf97387be07974111f6",
+                      "size":  1657344,
+                      "url":  "https://ghfast.top/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/AttitudeAddOn.dll"
                   },
                   {
                       "path":  "CorelDrw.addon",
                       "sha256":  "9b2e8ca0c74339894cac310699fc1a3778be9cfb457ccc5fab99abb33f19d91c",
                       "size":  620,
-                      "url":  "https://fastly.jsdelivr.net/gh/dhxg/attitude-release@v0.16.32/payload/CorelDrw.addon"
+                      "url":  "https://ghfast.top/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/CorelDrw.addon"
                   },
                   {
                       "path":  "UserUI.xslt",
                       "sha256":  "aa77bf36a11147b941cdc420cfa1c2edc282a8f294db89f596d099699871079a",
                       "size":  465,
-                      "url":  "https://fastly.jsdelivr.net/gh/dhxg/attitude-release@v0.16.32/payload/UserUI.xslt"
+                      "url":  "https://ghfast.top/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/UserUI.xslt"
                   },
                   {
                       "path":  "attitude-logo.png",
                       "sha256":  "72bf175480a160740f32e97b988dd600a3947bd3d266b8810d2f49b33446c6f4",
                       "size":  443981,
-                      "url":  "https://fastly.jsdelivr.net/gh/dhxg/attitude-release@v0.16.32/payload/attitude-logo.png"
+                      "url":  "https://ghfast.top/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/attitude-logo.png"
                   },
                   {
                       "path":  "font-license.txt",
                       "sha256":  "9a4d3e068e4afccd3ba5a0d5fd96b6d6cb1721e0e3603474b54a9aafc6e8fdd0",
                       "size":  5029,
-                      "url":  "https://fastly.jsdelivr.net/gh/dhxg/attitude-release@v0.16.32/payload/font-license.txt"
+                      "url":  "https://ghfast.top/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/font-license.txt"
                   },
                   {
                       "path":  "font-pinyin.txt",
                       "sha256":  "73453d5bc7f913b71d9a93c7a36f0a8c503a12531fc89db048e439e26e7e0b27",
                       "size":  169286,
-                      "url":  "https://fastly.jsdelivr.net/gh/dhxg/attitude-release@v0.16.32/payload/font-pinyin.txt"
+                      "url":  "https://ghfast.top/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/font-pinyin.txt"
                   },
                   {
                       "path":  "ppocr_keys.txt",
                       "sha256":  "a1c84d9bdb9ab29043c58896224d32941783eb821629618416dcb08f12886492",
                       "size":  26250,
-                      "url":  "https://fastly.jsdelivr.net/gh/dhxg/attitude-release@v0.16.32/payload/ppocr_keys.txt"
+                      "url":  "https://ghfast.top/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/ppocr_keys.txt"
                   },
                   {
                       "path":  "version.txt",
-                      "sha256":  "7aecb2639d7633d037d605aa0ecab6ba50746ce694ee7d9302cc8b4db6ebdb30",
+                      "sha256":  "3439e003346ff605fb9dfb3cf61f219c061f76a538af5ad815d08aa44aed062b",
                       "size":  8,
-                      "url":  "https://fastly.jsdelivr.net/gh/dhxg/attitude-release@v0.16.32/payload/version.txt"
+                      "url":  "https://ghfast.top/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/version.txt"
                   },
                   {
                       "path":  "渐变色卡内置.txt",
                       "sha256":  "d81b09102030ed608e565a350e4fc282684a67162a92900a031e92d13513627c",
                       "size":  216027,
-                      "url":  "https://fastly.jsdelivr.net/gh/dhxg/attitude-release@v0.16.32/payload/渐变色卡内置.txt"
+                      "url":  "https://ghfast.top/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/渐变色卡内置.txt"
                   }
               ]
 }
