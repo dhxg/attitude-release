@@ -1,12 +1,12 @@
 {
     "product":  "态度插件",
-    "version":  "0.16.33",
+    "version":  "0.16.34",
     "min_ver":  "0.16.0",
     "force":  false,
-    "notes":  "代码混淆加固：类名打乱、字符串加密（不影响功能）",
+    "notes":  "新增授权页；修复卡密粘贴与确定按钮",
     "fileCount":  10,
-    "totalSize":  2523022,
-    "sig":  "bvDZW5EXswYU28+tOxUQMkV6wQ1F5BQts7K/srZ6D4dAR3vTlAZ53lk+DR400WQGtDRnSKc8diJz+/Pk3bOwxV4BfJAfi5CbmnJrpI5SuDJoAL6/YEyasQ7pc6SCRGJkfuCFs+xll9nq2YK5rLst72MpQFAAtI3wyPK/ZguS6B0opLmfu+snBEVg3jFYN5mRFv0+DPydXIveddhVwI1KX5638ryL6j552f5fJ+s10Vo2mAD1qQ9biS8/r04FGr4fkZj2Jg/Qur4edf4mEmTGljskZEyqbZRifaf6himlZt/S+HN7yPsyVNi/wuJUfjjBPZjfAEFJA3K3Tx1EPTGh7w==",
+    "totalSize":  2543502,
+    "sig":  "CRKWIsIzcD/COa0yTigLCWBE444AzHIDLVJyxWKK/968K5bCeOUlbm/nrJmQG/wgvms5F33MDBFbzkstb1o5iX883X+9rz0yqZuqEnlE7RxIw0yPQy5ptQQ/OCU2lZcQ5ZvBzdH2gsNpxId8U+ssFU3WbR4ltcbyfsx8t9iBtuRK2+chjNsYvoIpRRSLmVJnbXc6uWrYnHZlLoNLvpEeoPI4Ni7oUZ+ch7O7wPmFaR7zvUvcBAnzUDFCp+nA8ooVezT52obnRyVF3ICBzjfXIgXoX+c8vHyXx3veGhvxZ6TdJdyRf1Z+Pc+wYBpBshf/abrcfNuhnzQBE/sdxlGgfw==",
     "files":  [
                   {
                       "path":  "AppUI.xslt",
@@ -16,8 +16,8 @@
                   },
                   {
                       "path":  "AttitudeAddOn.dll",
-                      "sha256":  "5a677da0cca85627083cb24511be9bde96abff83247adcf97387be07974111f6",
-                      "size":  1657344,
+                      "sha256":  "01f3281b47ea60e58230de62e2843c55cc94c08925a089440a3094ec0a902a55",
+                      "size":  1677824,
                       "url":  "https://ghfast.top/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/AttitudeAddOn.dll"
                   },
                   {
@@ -58,7 +58,7 @@
                   },
                   {
                       "path":  "version.txt",
-                      "sha256":  "3439e003346ff605fb9dfb3cf61f219c061f76a538af5ad815d08aa44aed062b",
+                      "sha256":  "fa28781949c4a0a33e61a969df8a56f0b597228253dd78758d2b28100bba69fc",
                       "size":  8,
                       "url":  "https://ghfast.top/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/version.txt"
                   },
