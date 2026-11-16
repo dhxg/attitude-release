@@ -12,61 +12,61 @@
                       "path":  "AppUI.xslt",
                       "sha256":  "fdd5dd54fd7f51183c5635c00f2fbe1f62456c53216956320f1a975793e21bc7",
                       "size":  4012,
-                      "url":  "https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/AppUI.xslt"
+                      "url":  "https://fastly.jsdelivr.net/gh/dhxg/attitude-release@v0.16.32/payload/AppUI.xslt"
                   },
                   {
                       "path":  "AttitudeAddOn.dll",
                       "sha256":  "35522d9996eea1d223a27ab29ad4f508a650bea004fec990418185677330c96b",
                       "size":  1431552,
-                      "url":  "https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/AttitudeAddOn.dll"
+                      "url":  "https://fastly.jsdelivr.net/gh/dhxg/attitude-release@v0.16.32/payload/AttitudeAddOn.dll"
                   },
                   {
                       "path":  "attitude-logo.png",
                       "sha256":  "72bf175480a160740f32e97b988dd600a3947bd3d266b8810d2f49b33446c6f4",
                       "size":  443981,
-                      "url":  "https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/attitude-logo.png"
+                      "url":  "https://fastly.jsdelivr.net/gh/dhxg/attitude-release@v0.16.32/payload/attitude-logo.png"
                   },
                   {
                       "path":  "CorelDrw.addon",
                       "sha256":  "9b2e8ca0c74339894cac310699fc1a3778be9cfb457ccc5fab99abb33f19d91c",
                       "size":  620,
-                      "url":  "https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/CorelDrw.addon"
+                      "url":  "https://fastly.jsdelivr.net/gh/dhxg/attitude-release@v0.16.32/payload/CorelDrw.addon"
                   },
                   {
                       "path":  "font-license.txt",
                       "sha256":  "9a4d3e068e4afccd3ba5a0d5fd96b6d6cb1721e0e3603474b54a9aafc6e8fdd0",
                       "size":  5029,
-                      "url":  "https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/font-license.txt"
+                      "url":  "https://fastly.jsdelivr.net/gh/dhxg/attitude-release@v0.16.32/payload/font-license.txt"
                   },
                   {
                       "path":  "font-pinyin.txt",
                       "sha256":  "73453d5bc7f913b71d9a93c7a36f0a8c503a12531fc89db048e439e26e7e0b27",
                       "size":  169286,
-                      "url":  "https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/font-pinyin.txt"
+                      "url":  "https://fastly.jsdelivr.net/gh/dhxg/attitude-release@v0.16.32/payload/font-pinyin.txt"
                   },
                   {
                       "path":  "ppocr_keys.txt",
                       "sha256":  "a1c84d9bdb9ab29043c58896224d32941783eb821629618416dcb08f12886492",
                       "size":  26250,
-                      "url":  "https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/ppocr_keys.txt"
+                      "url":  "https://fastly.jsdelivr.net/gh/dhxg/attitude-release@v0.16.32/payload/ppocr_keys.txt"
                   },
                   {
                       "path":  "UserUI.xslt",
                       "sha256":  "aa77bf36a11147b941cdc420cfa1c2edc282a8f294db89f596d099699871079a",
                       "size":  465,
-                      "url":  "https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/UserUI.xslt"
+                      "url":  "https://fastly.jsdelivr.net/gh/dhxg/attitude-release@v0.16.32/payload/UserUI.xslt"
                   },
                   {
                       "path":  "version.txt",
                       "sha256":  "7aecb2639d7633d037d605aa0ecab6ba50746ce694ee7d9302cc8b4db6ebdb30",
                       "size":  8,
-                      "url":  "https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/version.txt"
+                      "url":  "https://fastly.jsdelivr.net/gh/dhxg/attitude-release@v0.16.32/payload/version.txt"
                   },
                   {
                       "path":  "渐变色卡内置.txt",
                       "sha256":  "d81b09102030ed608e565a350e4fc282684a67162a92900a031e92d13513627c",
                       "size":  216027,
-                      "url":  "https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/渐变色卡内置.txt"
+                      "url":  "https://fastly.jsdelivr.net/gh/dhxg/attitude-release@v0.16.32/payload/渐变色卡内置.txt"
                   }
               ]
 }
