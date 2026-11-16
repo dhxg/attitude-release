@@ -12,61 +12,61 @@
                       "path":  "AppUI.xslt",
                       "sha256":  "fdd5dd54fd7f51183c5635c00f2fbe1f62456c53216956320f1a975793e21bc7",
                       "size":  4012,
-                      "url":  "https://ghfast.top/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/AppUI.xslt"
+                      "url":  "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/AppUI.xslt"
                   },
                   {
                       "path":  "AttitudeAddOn.dll",
                       "sha256":  "01f3281b47ea60e58230de62e2843c55cc94c08925a089440a3094ec0a902a55",
                       "size":  1677824,
-                      "url":  "https://ghfast.top/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/AttitudeAddOn.dll"
+                      "url":  "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/AttitudeAddOn.dll"
                   },
                   {
                       "path":  "CorelDrw.addon",
                       "sha256":  "9b2e8ca0c74339894cac310699fc1a3778be9cfb457ccc5fab99abb33f19d91c",
                       "size":  620,
-                      "url":  "https://ghfast.top/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/CorelDrw.addon"
+                      "url":  "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/CorelDrw.addon"
                   },
                   {
                       "path":  "UserUI.xslt",
                       "sha256":  "aa77bf36a11147b941cdc420cfa1c2edc282a8f294db89f596d099699871079a",
                       "size":  465,
-                      "url":  "https://ghfast.top/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/UserUI.xslt"
+                      "url":  "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/UserUI.xslt"
                   },
                   {
                       "path":  "attitude-logo.png",
                       "sha256":  "72bf175480a160740f32e97b988dd600a3947bd3d266b8810d2f49b33446c6f4",
                       "size":  443981,
-                      "url":  "https://ghfast.top/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/attitude-logo.png"
+                      "url":  "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/attitude-logo.png"
                   },
                   {
                       "path":  "font-license.txt",
                       "sha256":  "9a4d3e068e4afccd3ba5a0d5fd96b6d6cb1721e0e3603474b54a9aafc6e8fdd0",
                       "size":  5029,
-                      "url":  "https://ghfast.top/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/font-license.txt"
+                      "url":  "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/font-license.txt"
                   },
                   {
                       "path":  "font-pinyin.txt",
                       "sha256":  "73453d5bc7f913b71d9a93c7a36f0a8c503a12531fc89db048e439e26e7e0b27",
                       "size":  169286,
-                      "url":  "https://ghfast.top/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/font-pinyin.txt"
+                      "url":  "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/font-pinyin.txt"
                   },
                   {
                       "path":  "ppocr_keys.txt",
                       "sha256":  "a1c84d9bdb9ab29043c58896224d32941783eb821629618416dcb08f12886492",
                       "size":  26250,
-                      "url":  "https://ghfast.top/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/ppocr_keys.txt"
+                      "url":  "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/ppocr_keys.txt"
                   },
                   {
                       "path":  "version.txt",
                       "sha256":  "fa28781949c4a0a33e61a969df8a56f0b597228253dd78758d2b28100bba69fc",
                       "size":  8,
-                      "url":  "https://ghfast.top/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/version.txt"
+                      "url":  "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/version.txt"
                   },
                   {
                       "path":  "渐变色卡内置.txt",
                       "sha256":  "d81b09102030ed608e565a350e4fc282684a67162a92900a031e92d13513627c",
                       "size":  216027,
-                      "url":  "https://ghfast.top/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/渐变色卡内置.txt"
+                      "url":  "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/渐变色卡内置.txt"
                   }
               ]
 }
