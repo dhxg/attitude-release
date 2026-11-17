@@ -1,12 +1,12 @@
 {
     "product":  "态度插件",
-    "version":  "0.16.41",
+    "version":  "0.16.44",
     "min_ver":  "0.16.0",
     "force":  false,
-    "notes":  "v0.16.41：大话心哥抖音入口修正为公开主页",
+    "notes":  "v0.16.44：授权页文案与领卡微信；窗口按内容定高；抖音短链",
     "fileCount":  10,
-    "totalSize":  2707342,
-    "sig":  "RA6eQXGwHAHlVoMRcpjHPndvXa+pexP4xL0ZoxMp6UsHIIansH4HTKbjo/bxZ2ZqfjCOKG0JRo7TYDLs1Uco/OlwYeBGRGKxYlHWtiHvrD4zzQWcix6IvQUWwTCIeLyuGrvVbTpkCnMXPxU2z/uSakbQ3btb5xEIHXiHJvX5rJrSbBBb+TxvzprSvnvr2ZxRf7RDfn5MlmnvKbA5mxobr1815bF3wVyO86RLZQcYkrUw1ZHw4GgEUNQXsJeqhPuY1EtGCJMHKGxMkpi2dAR7/KubpHlNh2JeygdDqE5nxGJiOq8QcYJFzzxu5QrTfbdhgYVXc0bMZVdLOPa53uCCnw==",
+    "totalSize":  2708366,
+    "sig":  "EJFS2/dQpbVN2k7+5V+wUambRNGm2Mcj9e9hgHdovvANaHsqGoGnBKEj6O7W5N+6c2tcUAdeuTI5xdEZttnUkLXlSX8sMWdEz59L7oxTEfpbYy3BcJgyUCb7pfLnRx5MPfZxNQgeuQW18/nyq3KN6uXBoPJHBmZAZH/BjV0mvaTtoiN1lwK6hCASfSdVhRNQOlHZolXM4zswqiq8Tn5h3E9C3S6xTKds3hDc17tATOy4P24a/wzuByczSRIgihRyCCywDbvqYhgipxX7B7yRLeI6egaTWJafS4JbKjvFJPIW8jTWjh8GTMDBoE/TIAGcx5hTH1LLu7DIZm12osAFJg==",
     "files":  [
                   {
                       "path":  "AppUI.xslt",
@@ -16,8 +16,8 @@
                   },
                   {
                       "path":  "AttitudeAddOn.dll",
-                      "sha256":  "089fa236f7b40c2b74878fe5d352198511c25e829ada3fe54bf244410f180082",
-                      "size":  1841664,
+                      "sha256":  "c2c621266f502f24e0be20da2086606b73d278f7d02aef6f1c85e90bd5438269",
+                      "size":  1842688,
                       "url":  "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/AttitudeAddOn.dll"
                   },
                   {
@@ -58,7 +58,7 @@
                   },
                   {
                       "path":  "version.txt",
-                      "sha256":  "36cdaac13175e6fcb4b6a6c416bd8354065902992303056896ace684b67f728f",
+                      "sha256":  "0f1648e4d6896e854c1a54565cbb9ff5d80982adc6a4a9b527c9865d16d3d9df",
                       "size":  8,
                       "url":  "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/version.txt"
                   },
