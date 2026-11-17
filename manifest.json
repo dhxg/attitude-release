@@ -1,12 +1,12 @@
 {
     "product":  "态度插件",
-    "version":  "0.16.39",
+    "version":  "0.16.40",
     "min_ver":  "0.16.0",
     "force":  false,
-    "notes":  "v0.16.39：删除主题设置页（界面自动跟随 CDR 配色）；授权页新增大话心哥卡片（抖音/B站入口）",
+    "notes":  "v0.16.40：授权页常显领卡方式（微信 kai82063）",
     "fileCount":  10,
-    "totalSize":  2706318,
-    "sig":  "O8Cb4LaPuhSvIByRmrSMsvnLw7HX6uskM2pAUz3W5v3W7+mqUNYor7V4IXTrCS74uGeYr30rQuwPMMXfez1Ot//DkgT347gS97Fa3WFYJltb7ARqXr4Kvj9wDybl2uN4CfyoRcr03thGZyBe8Url9zpNiyQjsf+mDnd7m2+3fRaEOXjBr4FOWdyTU5KjO0G2tlUG9v1ntyQu47LARF38gTKrSdNxuY3SxYp8xEahhDpoGFUOjKUkB3C4/0WOkUvw4knHGJ7VcySIrK990oVI46yA9azMvlU6cOnDtE60yrlN6aNNkJrrjJK8WAdK9XBvi4hA2mwToaRLDFU9zL2HLg==",
+    "totalSize":  2707342,
+    "sig":  "W5rFqZeL4GQ89jIgJZScjatU3BTKD69oCtXBrxKlAkjQlAz12ofD3bLvn2Yqrd1OPDHJLooOZgJceJs+xeBJXOGAtcBrzpwk88gcmgl/h7lyL6VqKtbDUwnd2SfRoRpWH5cHRi5/CpnVG78Ea5+ZSY6bPXiflsXwGCeLd8n40UjpNZi4adY5k0trGMe1WGVe5ZoKDLPYRtquWGE3lSosy2TXYhBuRRoNPJVmOIgP7mL6cfsF4CA4EIDKeyTYf7kpGlb1dIXbqHNZMVcRJ5da3cAHkfoucl++WrypQZCQLkvVKxfe7i1TAUZhY+ouuqzZT+vGJzDzK04jhchQqYYcVQ==",
     "files":  [
                   {
                       "path":  "AppUI.xslt",
@@ -16,8 +16,8 @@
                   },
                   {
                       "path":  "AttitudeAddOn.dll",
-                      "sha256":  "ef515c41d87882f38b55ee2d52b4496b4cf6798e0acc976659deee764701ee7b",
-                      "size":  1840640,
+                      "sha256":  "d575319a5a7aa5d603f11d766895e258f8c69316939c0a32edb07e7a162211cc",
+                      "size":  1841664,
                       "url":  "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/AttitudeAddOn.dll"
                   },
                   {
@@ -58,7 +58,7 @@
                   },
                   {
                       "path":  "version.txt",
-                      "sha256":  "2cf2f5b469f893be7b3b24bcf7730c9d178205c1e8a7b0c9381e79f1ce57c314",
+                      "sha256":  "e2867fad6bc9951ca014c05d040466f2320792e0d7b4abc5d0db1b68ce8e1240",
                       "size":  8,
                       "url":  "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/version.txt"
                   },
