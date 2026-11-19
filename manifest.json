@@ -1,12 +1,12 @@
 {
     "product":  "态度插件",
-    "version":  "0.16.48",
+    "version":  "0.17.0",
     "min_ver":  "0.16.0",
     "force":  false,
-    "notes":  "数据目录改到系统标准位置（AppData\\Attitude），没有 F 盘的电脑也能正常保存设置、正常导出；面板折叠、吸管 CMYK/RGB、工具栏自动归位等上版功能保持不变。",
+    "notes":  "安装位置可自选，卸载可选清空数据目录",
     "fileCount":  10,
-    "totalSize":  2793870,
-    "sig":  "Lsz8UVC32YpgtiW0F5M2YVutXtfCVsPsPsZ2qMt3DwTOScwP1npNQOupSgTVDFW8+beEyF2F92XgO7L7mLUQZIP7HAOs/3hgwC/mIvzK1b5cFDu+9k/iLHTEcYBhom7AMT/COU7ZZtIc7pcuwRED4fYA3MQPyWVtXtYCx2yEfrVUFTJodxkDtE+qpEtzkgAPL6wY/8NUypy3y/xkuU5GR/+WqYwggqUTBNRmJFptyIh+J09/I3w4sk0f43WK7uAWfTJbhdWh6eAcnzZP9X9cpABMadZVWjNwuup2Fxww0ds8zFCvxKMi9qPAYp2dcwADTqBlPSevusELGhI8AHaL0Q==",
+    "totalSize":  2795405,
+    "sig":  "ADpXen3sPPOQF3W2CooEPswVw2XtthFv0yKpPp2IN1BFKqtYQe4OCxqUmthfSE0BZ53mhzpe4QQssrnYMwY7/N1p/fK/jmqfgdBfFtXKzMHiDsWOS3G6U5ItJE3lElBpNPUC11gb4H/o5maVkCaLjQ04qZc9+xVC7cLXFBQUvaH2iFok43w8KRlMYz+Gew9UvQAjiAcwwrP7vgBDcxv9qaN9LhAiGirL23pQ4AuXmPGR6KqW8NzjdXgDPE/ph499bMJVVg2WfOjLlEbDRsYoBHWNDbIQAhLRx0IfVs37j85JpOBShWf6riHA7sjDys3HSrER1U7rE+1TSHl2EBe48g==",
     "files":  [
                   {
                       "path":  "AppUI.xslt",
@@ -16,8 +16,8 @@
                   },
                   {
                       "path":  "AttitudeAddOn.dll",
-                      "sha256":  "7f8baf4f366ebd7e495a711fa031adecc757ed0f603b3e528fe9c03ee3c4880e",
-                      "size":  1928192,
+                      "sha256":  "68f12ffc6618ac67c50f4b6acd71b9063e2c7ae5d2007c83c793adb294c3b13b",
+                      "size":  1929728,
                       "url":  "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/AttitudeAddOn.dll"
                   },
                   {
@@ -58,8 +58,8 @@
                   },
                   {
                       "path":  "version.txt",
-                      "sha256":  "61bf98124ba4de2b20ba6d8c884211c0c68650c451243c2e5d3671bc165b8712",
-                      "size":  8,
+                      "sha256":  "aba6bda0d53d04887ca8b887b979f36c91cfe2c8f673ae4170f742c1c00c0702",
+                      "size":  7,
                       "url":  "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/payload/version.txt"
                   },
                   {
