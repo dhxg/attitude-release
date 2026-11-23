@@ -1,13 +1,13 @@
 {
   "product": "态度插件",
-  "version": "0.18.0",
-  "min_ver": "0.16.0",
+  "version": "0.18.1",
+  "min_ver": "0.18.0",
   "force": false,
-  "notes": "双宿主：一个安装器装 CDR + Illustrator；更新通道按宿主分开；一套卡密两边通用，只装 AI 也能激活；设置页三组折叠可滚动；更新包密文化",
+  "notes": "修 AI 面板硬编码 F 盘路径：设置/日志/导出改为跟随安装时选的数据目录；老版本(0.18.0 以前)在线更新已关闭",
   "encrypted": "ATENC1",
   "fileCount": 10,
-  "totalSize": 2874622.0,
-  "sig": "jTb6AJcfqn2iCPuE354tX26i5x3EZmD9VvarL4T/0pdtaB7yls/tXtqiNKz9EUp3YVho5kXST750PzwFM9RSH3xfrIPIUuOmFlf9C0fZHzFT7wc7hPkDvSVdI/HpbLUWt/bO/SQ+ECwYvYBm8/mquaojWIg+6vW5w3Rs+h3SH1VDBkQO0qbCVr3agrqf74tubvjkvWdI8M28DhPUoIIK+2eEd3i80LVrYkXuouLhC02BVGtff1MkYNi3eNwsK20qt3OD9fBMiHCznMJArAqbwIy8EUgES9Vd4PViZkPDKCvqNl+FkI3KxUzJGTuXp7sdbfdkalavIObSGu/VdGVN6w==",
+  "totalSize": 2874619.0,
+  "sig": "gQvHeFytCBywAvAt2tIJZCJ+TTi/EiuLr+sGaOeR2IEJM7SksIsVP7RedzbOIOusIyzt5+HRcTOsAZV+Fnbr448BMEn1aFWsSBXnTLMosvDc6HJSiJMAp2to2haQdi80PT9RLi8SHeWbTxIFQhTvI92WWvtdK+bU4CL686PvcvKCikQMpQa2UPpkAgmrswVGxaA8LotEp78+DRNKNHXBVI2wayOuKTX3jaaeJ7SZkkqAM289JgLIBDmfWoZ+iElU2yQ2cHgja6cLppYSTrynRcjl5a+uU6LQq3oSh4O6FCx4t/HuOAcINyhyyBsNJlatzTKU7oAJ45nUwUz5LCdu/Q==",
   "files": [
     {
       "path": "AppUI.xslt",
@@ -18,7 +18,7 @@
     },
     {
       "path": "AttitudeAddOn.dll",
-      "sha256": "dfd691642fb4d9318fd765093671fba13acc300cdbcc0ee1603e1dbb0111ceef",
+      "sha256": "eba24fbc616d47ab918232f91c7394721e622aa9a11591ab2628a21a562c32ee",
       "size": 2008064,
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/enc/AttitudeAddOn.dll.atenc",
       "enc": true
@@ -67,8 +67,8 @@
     },
     {
       "path": "version.txt",
-      "sha256": "8f68d0f9345dbf0905a983b1405945c19f4f05d4c59bbc9a42324fab5bab4e75",
-      "size": 10,
+      "sha256": "ee59b49a20845cc966966353074c4aa2e4d42985858e4921dd255dab13a47d05",
+      "size": 7,
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/enc/version.txt.atenc",
       "enc": true
     },
