@@ -1,13 +1,13 @@
 {
   "product": "态度插件",
-  "version": "0.18.1",
-  "min_ver": "0.18.0",
+  "version": "0.18.2",
+  "min_ver": "0.16.0",
   "force": false,
-  "notes": "修 AI 面板硬编码 F 盘路径：设置/日志/导出改为跟随安装时选的数据目录；老版本(0.18.0 以前)在线更新已关闭",
+  "notes": "新版本提醒（面板顶栏提示条 + 设置页版本区）；字体管理/批量导出/全部工具折叠统一；素材库缩略图落盘缓存+目录快照提速；字还魂复用字体缓存；版本号收拢到一处",
   "encrypted": "ATENC1",
   "fileCount": 10,
-  "totalSize": 2874619.0,
-  "sig": "gQvHeFytCBywAvAt2tIJZCJ+TTi/EiuLr+sGaOeR2IEJM7SksIsVP7RedzbOIOusIyzt5+HRcTOsAZV+Fnbr448BMEn1aFWsSBXnTLMosvDc6HJSiJMAp2to2haQdi80PT9RLi8SHeWbTxIFQhTvI92WWvtdK+bU4CL686PvcvKCikQMpQa2UPpkAgmrswVGxaA8LotEp78+DRNKNHXBVI2wayOuKTX3jaaeJ7SZkkqAM289JgLIBDmfWoZ+iElU2yQ2cHgja6cLppYSTrynRcjl5a+uU6LQq3oSh4O6FCx4t/HuOAcINyhyyBsNJlatzTKU7oAJ45nUwUz5LCdu/Q==",
+  "totalSize": 2904315.0,
+  "sig": "PGr9fWmMFogQfpemFUd1Mf70X1FA98erWhKMagwVFK593xSaUEv47NXC2q7cv3oWfelJhHYp+RQE2/puN6+6uyvuKOExgoC8QuA6K6PBCDbIBPdmQQCjwKqlZt3l9N6ekOZ/XUR1Y8NL/3TJJ/9ywglGq/0lbhMPLnaivcWHsQ1+qPIn8RYuVP3BpVuzFcS0CoIoxzuUk/Al9nJyj5ZrMTxDDWvk2T6QGE6O+24BPT0rHRyIa+O9Yx5yVHl1ledZCZUxYfat97QjVfwHcGiZJqOA2T6SLYFWi5JzqcEbbYqGwi3vX356YhkjtMvpNHP7YDdNsb3ZIjqQGfaZQhLucw==",
   "files": [
     {
       "path": "AppUI.xslt",
@@ -18,8 +18,8 @@
     },
     {
       "path": "AttitudeAddOn.dll",
-      "sha256": "eba24fbc616d47ab918232f91c7394721e622aa9a11591ab2628a21a562c32ee",
-      "size": 2008064,
+      "sha256": "96eabfc3ce64266fa9af9f8eb73e45e94efbfd566fc4e0986cd0b7aa9ab05dc6",
+      "size": 2037760,
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/enc/AttitudeAddOn.dll.atenc",
       "enc": true
     },
@@ -67,7 +67,7 @@
     },
     {
       "path": "version.txt",
-      "sha256": "ee59b49a20845cc966966353074c4aa2e4d42985858e4921dd255dab13a47d05",
+      "sha256": "86802c634b39888e895bcb8485dc94c815cdb41e6573375af50abb8637b0ad38",
       "size": 7,
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/enc/version.txt.atenc",
       "enc": true
