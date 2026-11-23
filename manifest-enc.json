@@ -1,0 +1,83 @@
+{
+  "product": "态度插件",
+  "version": "0.18.0",
+  "min_ver": "0.16.0",
+  "force": false,
+  "notes": "双宿主：一个安装器装 CDR + Illustrator；更新通道按宿主分开；一套卡密两边通用，只装 AI 也能激活；设置页三组折叠可滚动；更新包密文化",
+  "encrypted": "ATENC1",
+  "fileCount": 10,
+  "totalSize": 2874622.0,
+  "sig": "jTb6AJcfqn2iCPuE354tX26i5x3EZmD9VvarL4T/0pdtaB7yls/tXtqiNKz9EUp3YVho5kXST750PzwFM9RSH3xfrIPIUuOmFlf9C0fZHzFT7wc7hPkDvSVdI/HpbLUWt/bO/SQ+ECwYvYBm8/mquaojWIg+6vW5w3Rs+h3SH1VDBkQO0qbCVr3agrqf74tubvjkvWdI8M28DhPUoIIK+2eEd3i80LVrYkXuouLhC02BVGtff1MkYNi3eNwsK20qt3OD9fBMiHCznMJArAqbwIy8EUgES9Vd4PViZkPDKCvqNl+FkI3KxUzJGTuXp7sdbfdkalavIObSGu/VdGVN6w==",
+  "files": [
+    {
+      "path": "AppUI.xslt",
+      "sha256": "5cdd4733724212816db43c82d0f2461557a4794e27a3a3ab155e2a2e02e16fb4",
+      "size": 4890,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/enc/AppUI.xslt.atenc",
+      "enc": true
+    },
+    {
+      "path": "AttitudeAddOn.dll",
+      "sha256": "dfd691642fb4d9318fd765093671fba13acc300cdbcc0ee1603e1dbb0111ceef",
+      "size": 2008064,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/enc/AttitudeAddOn.dll.atenc",
+      "enc": true
+    },
+    {
+      "path": "CorelDrw.addon",
+      "sha256": "9b2e8ca0c74339894cac310699fc1a3778be9cfb457ccc5fab99abb33f19d91c",
+      "size": 620,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/enc/CorelDrw.addon.atenc",
+      "enc": true
+    },
+    {
+      "path": "UserUI.xslt",
+      "sha256": "aa77bf36a11147b941cdc420cfa1c2edc282a8f294db89f596d099699871079a",
+      "size": 465,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/enc/UserUI.xslt.atenc",
+      "enc": true
+    },
+    {
+      "path": "attitude-logo.png",
+      "sha256": "72bf175480a160740f32e97b988dd600a3947bd3d266b8810d2f49b33446c6f4",
+      "size": 443981,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/enc/attitude-logo.png.atenc",
+      "enc": true
+    },
+    {
+      "path": "font-license.txt",
+      "sha256": "9a4d3e068e4afccd3ba5a0d5fd96b6d6cb1721e0e3603474b54a9aafc6e8fdd0",
+      "size": 5029,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/enc/font-license.txt.atenc",
+      "enc": true
+    },
+    {
+      "path": "font-pinyin.txt",
+      "sha256": "73453d5bc7f913b71d9a93c7a36f0a8c503a12531fc89db048e439e26e7e0b27",
+      "size": 169286,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/enc/font-pinyin.txt.atenc",
+      "enc": true
+    },
+    {
+      "path": "ppocr_keys.txt",
+      "sha256": "a1c84d9bdb9ab29043c58896224d32941783eb821629618416dcb08f12886492",
+      "size": 26250,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/enc/ppocr_keys.txt.atenc",
+      "enc": true
+    },
+    {
+      "path": "version.txt",
+      "sha256": "8f68d0f9345dbf0905a983b1405945c19f4f05d4c59bbc9a42324fab5bab4e75",
+      "size": 10,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/enc/version.txt.atenc",
+      "enc": true
+    },
+    {
+      "path": "渐变色卡内置.txt",
+      "sha256": "d81b09102030ed608e565a350e4fc282684a67162a92900a031e92d13513627c",
+      "size": 216027,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/enc/渐变色卡内置.txt.atenc",
+      "enc": true
+    }
+  ]
+}
