@@ -1,13 +1,13 @@
 {
   "product": "态度插件",
-  "version": "0.18.2",
+  "version": "0.18.3",
   "min_ver": "0.16.0",
   "force": false,
-  "notes": "新版本提醒（面板顶栏提示条 + 设置页版本区）；字体管理/批量导出/全部工具折叠统一；素材库缩略图落盘缓存+目录快照提速；字还魂复用字体缓存；版本号收拢到一处",
+  "notes": "修工具条收窄误判 + 安装器版本各跟各的",
   "encrypted": "ATENC1",
-  "fileCount": 10,
-  "totalSize": 2904315.0,
-  "sig": "PGr9fWmMFogQfpemFUd1Mf70X1FA98erWhKMagwVFK593xSaUEv47NXC2q7cv3oWfelJhHYp+RQE2/puN6+6uyvuKOExgoC8QuA6K6PBCDbIBPdmQQCjwKqlZt3l9N6ekOZ/XUR1Y8NL/3TJJ/9ywglGq/0lbhMPLnaivcWHsQ1+qPIn8RYuVP3BpVuzFcS0CoIoxzuUk/Al9nJyj5ZrMTxDDWvk2T6QGE6O+24BPT0rHRyIa+O9Yx5yVHl1ledZCZUxYfat97QjVfwHcGiZJqOA2T6SLYFWi5JzqcEbbYqGwi3vX356YhkjtMvpNHP7YDdNsb3ZIjqQGfaZQhLucw==",
+  "fileCount": 11,
+  "totalSize": 2910480.0,
+  "sig": "U6lH5dwPo1KscNIdbVPQ3e26/m/DtLP7NHfUqvphnzXn7OXFtRoHVJPbxuBlhK0vWSgHxRuE8VBzknUM1iRcaQeHTkOy0m8DGG6QfhsGKACyPIqvfLwR0a7hi0F0XCa6K3H2zQ3mwEo4nM+DgmuXjprRJjxqsuH3OY1tXvfiCO14NNdsMEgN8MzzoKCJBndzoPcLxATu5oCcvYdYSysQCNMwaSLWDxCcjdeVMcwm1qrud65zpKpwmUmfleFljJtbl9UjB8AX0wHDQYE52smD/pYBl6KaNJL5CrCvtqUqUXm4ZajR1E+wEaf2HbAiQYop3feKbLO2e8cXG5BWGnenEw==",
   "files": [
     {
       "path": "AppUI.xslt",
@@ -18,8 +18,8 @@
     },
     {
       "path": "AttitudeAddOn.dll",
-      "sha256": "96eabfc3ce64266fa9af9f8eb73e45e94efbfd566fc4e0986cd0b7aa9ab05dc6",
-      "size": 2037760,
+      "sha256": "a273660408bb9d67d950045822b247b717a9e0d5414729be68f740b8048b9ee9",
+      "size": 2043392,
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/enc/AttitudeAddOn.dll.atenc",
       "enc": true
     },
@@ -59,6 +59,13 @@
       "enc": true
     },
     {
+      "path": "plugin-integrity.txt",
+      "sha256": "2e575f34f088ba5f6e0d4f1e00ea8c84deabacb908eb2b00693d7c3de62763e2",
+      "size": 533,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/enc/plugin-integrity.txt.atenc",
+      "enc": true
+    },
+    {
       "path": "ppocr_keys.txt",
       "sha256": "a1c84d9bdb9ab29043c58896224d32941783eb821629618416dcb08f12886492",
       "size": 26250,
@@ -67,7 +74,7 @@
     },
     {
       "path": "version.txt",
-      "sha256": "86802c634b39888e895bcb8485dc94c815cdb41e6573375af50abb8637b0ad38",
+      "sha256": "47f20d42d9cdc49a831142f7d6c0e204794cca307fdcfc262517e5f77e28f940",
       "size": 7,
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/enc/version.txt.atenc",
       "enc": true
