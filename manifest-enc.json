@@ -1,13 +1,13 @@
 {
   "product": "态度插件",
-  "version": "0.18.38",
+  "version": "0.18.39",
   "min_ver": "0.18.4",
   "force": false,
-  "notes": "AI 版停更：安装器只装 CorelDRAW，AI 清单已下线；版本号对齐 0.18.38",
+  "notes": "功能表数据化：新增功能随更新自动出现并默认开启；安装器功能列表改读 features.txt",
   "encrypted": "ATENC1",
-  "fileCount": 11,
-  "totalSize": 3198403.0,
-  "sig": "AAabxdYIGXqwmH11sFJM7hTiXFliTiqtEAbkBqpdRkL50NUKj+6DMldQl5zwO35O8FnnBUHaK1RKtbZu9QxsesTQS1uNhz6Kd8fMP5RAKYLxcPbJUNSWhZp1RN27Zuo2gdj1FIlG3z1xWdaYkz5HKeSpdL56zQn1sHK1+IAsx90p3OR4sh+6MOUhzmKEW+ah9Ws6oaa9dkQqHz/yeeULqxXI1/S74oYI28eoGGC1PcN1NTRa+nlWCjJDQ9DEhGG9/OxqgyIT9dhkr9eNMIdki2E7Wka9rUEsmr8/yB9Po6/WSBt12E1vipjjl704nTJqwEkt59mEkFRUyUf9NqYarw==",
+  "fileCount": 12,
+  "totalSize": 3201055.0,
+  "sig": "nFWQC8xSDfWt4NqRGRPe4TsBsVAYUlRNGhltFZ7SmSJtq/5myR89WmY0UAZDiyiuaqmTnfSdLnktqHS8fTBSfL6uy9bzcPvehSGBoZ8w+vUlfsysGtCkralviGDnm5UoxGD6QrgdGtNL+kmmQkXc0ajFTcjvZoXsm6e3W10xS1vep9RUh1SuKvegHG7fsQs4G6A5gSEvGvH52J+I/ZNJAiOwbBoLX7ZhxUm0P3wXomoGfzYBBduSAQ1GEdEWSRiH0CfCHBhEOvpmMooA2ND3A501iKoGT5bRyxk9gzPMbbJ6+wyFD+a+QYZHG9OqZVBeDNuiZk9v4faWEvf2tJHeVg==",
   "files": [
     {
       "path": "AppUI.xslt",
@@ -18,8 +18,8 @@
     },
     {
       "path": "AttitudeAddOn.dll",
-      "sha256": "4b84b23f443ea8172fbf0d1c5fe1ac8ed541fc9bd22d486a4a8e028e73072fb1",
-      "size": 2331136,
+      "sha256": "fac4d983b42aed60671ef3a96f72211ead18e4dfb96842c87c4d62bf5147f3d0",
+      "size": 2332672,
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/enc/AttitudeAddOn.dll.atenc",
       "enc": true
     },
@@ -45,6 +45,13 @@
       "enc": true
     },
     {
+      "path": "features.txt",
+      "sha256": "cd2a1a1d4fcbfe754452b58e4fa253eeb843b074cc309f91604a577cd9f689ef",
+      "size": 1117,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/enc/features.txt.atenc",
+      "enc": true
+    },
+    {
       "path": "font-license.txt",
       "sha256": "9a4d3e068e4afccd3ba5a0d5fd96b6d6cb1721e0e3603474b54a9aafc6e8fdd0",
       "size": 5029,
@@ -60,7 +67,7 @@
     },
     {
       "path": "plugin-integrity.txt",
-      "sha256": "0451f709d1e064f70ba5566ba114a3c7008708d249f9bff5371f8c3f2fe90bf7",
+      "sha256": "e3f2e464ed41589b0f2c7fb9f55106c03af0070f9feafce88cb8bbcba9126e78",
       "size": 535,
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/enc/plugin-integrity.txt.atenc",
       "enc": true
@@ -74,8 +81,8 @@
     },
     {
       "path": "version.txt",
-      "sha256": "17b1bd4101501e62490cab036eb32a814cd81097eb53f4d49f0bf0499584e65b",
-      "size": 9,
+      "sha256": "68ffe2be1c85b59900f3d1c7015f7a4c1c79cd66cec0142e5d7fed1b41e4ae7c",
+      "size": 8,
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/dhxg/attitude-release/main/enc/version.txt.atenc",
       "enc": true
     },
